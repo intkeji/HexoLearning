@@ -9,7 +9,7 @@
 * 一键部署
 * 丰富的插件
 
-> 下面以我的博客为例，limedroid.github.io
+> 下面以我的博客为例，intkeji.github.io
 
 ## 2 环境准备
 
@@ -35,11 +35,11 @@ $ sudo npm install hexo-cli -g
 
 ## 3 利用Hexo搭建一个博客
 
-### 3.1 创建博客目录`limedroid.github.io`
+### 3.1 创建博客目录`intkeji.github.io`
 
 ```
-$ hexo init limedroid.github.io
-$ cd limedroid.github.io
+$ hexo init intkeji.github.io
+$ cd intkeji.github.io
 $ npm install
 ```
 
@@ -141,7 +141,7 @@ $ hexo s
 ### 7.1 有个github账号xxx
 
 ### 7.2 创建一个xxx.github.io的public仓库
-如果您的账户名是limedroid,则需要创建一个limedroid.github.io的public仓库.
+如果您的账户名是intkeji,则需要创建一个intkeji.github.io的public仓库.
 
 ### 7.3 安装 [hexo-deployer-git](https://github.com/hexojs/hexo-deployer-git)
 
@@ -332,8 +332,6 @@ var duoshuoQuery = {short_name:"droidlover"};
 
 现在，你可以运行看下效果了:)
 
-
-## 11 加介绍页面，让全世界认识你
 
 
 
