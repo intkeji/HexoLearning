@@ -9,8 +9,6 @@
 * 一键部署
 * 丰富的插件
 
-> 下面以我的博客为例，intkeji.github.io
-
 ## 2 环境准备
 
 ### 2.1 安装node.js
@@ -106,7 +104,7 @@ title: Droidlover
 ## 6 换一个好看的主题
 
 Hexo 中有很多主题，可以在[官网](https://hexo.io/themes/)查看。
-这里我推荐[hexo-theme-next](https://github.com/iissnan/hexo-theme-next)，下面列举更换主题的一般套路：
+[hexo-theme-next](https://github.com/iissnan/hexo-theme-next)，下面列举更换主题的一般套路：
 
 ### 6.1 下载主题资源
 
@@ -296,7 +294,7 @@ categories:
 
 ### 10.2 创建站点
 
-需要注意的是，填写的**多说域名**不能更改，会在后面使用，在这里我配置成droidlover
+需要注意的是，填写的**多说域名**不能更改，会在后面使用，在这里配置成droidlover
 
 ### 10.3 配置
 
@@ -329,16 +327,3 @@ var duoshuoQuery = {short_name:"droidlover"};
 	</script>
 <!-- 多说公共JS代码 end -->
 ```
-
-现在，你可以运行看下效果了:)
-
-
-
-
-
-
-
-
-
-
-
